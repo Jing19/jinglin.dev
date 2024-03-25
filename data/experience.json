@@ -2,34 +2,40 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "February 2015 - June 2016",
-			"company" : "Netcentric",
-			"website": "https://www.netcentric.biz",
-			"description" : ""
+			"timeperiod" : "October 2022 - Present",
+			"company" : "Sennder",
+			"website": "https://www.sennder.com",
+			"description" : "Engineering Manager"
 		},
 		{
-			"timeperiod" : "July 2016 - January 2017",
-			"company" : "SMADEX",
-			"website": "https://www.smadex.com",
-			"description" : ""
-		},
-		{
-			"timeperiod" : "Mar 2017 - Mar 2019",
-			"company" : "CornerJob",
-			"website": "https://www.cornerjob.com",
-			"description" : ""
+			"timeperiod" : "March 2021 - September 2022",
+			"company" : "Thoughtworks",
+			"website": "https://www.thoughtworks.com",
+			"description" : "Software Engineer"
 		},
 		{
 			"timeperiod" : "April 2019 - March 2021",
 			"company" : "wefox",
 			"website": "https://www.wefox.com",
-			"description" : ""
+			"description" : "Software Engineer"
 		},
 		{
-			"timeperiod" : "March 2021 - Present",
-			"company" : "Thoughtworks",
-			"website": "https://www.thoughtworks.com",
-			"description" : ""
+			"timeperiod" : "Mar 2017 - Mar 2019",
+			"company" : "CornerJob",
+			"website": "https://www.cornerjob.com",
+			"description" : "Software Engineer"
+		},
+		{
+			"timeperiod" : "July 2016 - January 2017",
+			"company" : "SMADEX",
+			"website": "https://www.smadex.com",
+			"description" : "Software Engineer"
+		},
+		{
+			"timeperiod" : "February 2015 - June 2016",
+			"company" : "Netcentric",
+			"website": "https://www.netcentric.biz",
+			"description" : "QA Automation Engineer"
 		}
 	]
 }

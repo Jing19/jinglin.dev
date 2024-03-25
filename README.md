@@ -20,8 +20,3 @@ Any commit in the `main` branch will trigger a deployment in [GitHub Pages](http
 
 ## ✅ To-Do
 
-- [ ] Re-configure Formspree
-  - [ ] Change e-mail to Jing's e-mail address
-  - [ ] Share credentials with her
-- [ ] Transfer `jinglin.dev` repo ownership
-
